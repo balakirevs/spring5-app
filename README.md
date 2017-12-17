@@ -1,4 +1,4 @@
-# Spring Boot 2 Recipe Application
+# Spring 5 Recipe Application
 
 ## Dependencies
 - Java 8
